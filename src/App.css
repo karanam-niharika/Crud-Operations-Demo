@@ -1,0 +1,102 @@
+/* .buttonData{
+    border: 1px solid #1788f2;
+    height: 40px;
+    width: 120px;
+    background-color: #1788f2;
+    border-radius: 8px;
+    margin-left: 1230px;
+
+}
+.navContainer{
+    margin-top: 30px;
+
+}
+.actionButton{
+    margin-top: 19px;
+    border: 1px solid lightgray;
+    height: 35px;
+    width: 30px;
+    background-color: aqua;
+    color:#ffc107;
+}
+
+.styleButton{
+    color: brown;
+}
+.twoButtons{
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+    justify-content: space-e;
+
+}
+.dustbin{
+    margin-top: 19px;
+    border: 1px solid white;
+    height: 35px;
+    width: 30px;
+    background-color: aqua;
+    color:#dc3545;
+    margin-left: 10px;
+    
+} 
+.inputButton{
+    border: 1px solid  ;
+} */
+
+
+
+
+.buttonData{
+    border: 1px solid  #1877f2;
+    height: 40px;
+    width: 160px;
+    background-color:  #1877f2;
+    border-radius: 8px;
+    margin-left: 1230px;
+  
+  }
+  .navContainer{
+    margin-top: 30px;
+  
+  }
+  .actionButton{
+    /* margin-top: 19px; */
+    /* border: 1px solid red; */
+    height: 35px;
+    width: 30px;
+    /* background-color: #27C46B; */
+    border-radius: 10px;
+    color: black;
+  }
+  
+  .styleButton{
+    color: brown;
+  }
+  .twoButtons{
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+    /* justify-content: space-e; */
+  
+  }
+  .dustbin{
+    /* margin-top: 19px; */
+    /* border: 1px solid red; */
+    height: 35px;
+    width: 30px;
+    border-radius: 10px;
+    /* background-color: #E34724; */
+    color:black;
+    margin-left: 10px;
+  }
+  
+  .submit-button{
+    margin: 0px 0px 0px 60px;
+  }
+  
+  .inputs{
+    width: 200px;
+    margin: 0px 0px 0px 550px;
+  
+  }
